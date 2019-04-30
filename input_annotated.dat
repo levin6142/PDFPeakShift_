@@ -1,0 +1,10 @@
+1    !(1 for MODULUS; 2 for SQUARE)
+ano_ramp_0 !(stem file name)
+.gr !(file extension)
+001      !(number of the reference file)in your example E=0
+002       !(number of the last file in a sequence)e.g.,E=4
+500       !band width (in points)
+50        !r-step (in points)
+0.4      !maximum r-shift (in A)
+0.0001    !accuracy (in A)
+
